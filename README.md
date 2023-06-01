@@ -1,6 +1,8 @@
 # lsp
 A simple dir tool  
+## 演示
 ```
+[kanna@kannaderhel ws]$ lsp
 Here: 
 │
 ├─[Folder] rwxr-xr-x  755    root    root  [  41.20 KB] dist  
