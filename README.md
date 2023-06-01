@@ -1,5 +1,5 @@
 # lsp
-A simple dir tool  
+随便写的一个简单的目录小工具
 ## 演示
 ```
 [kanna@kannaderhel ws]$ lsp
